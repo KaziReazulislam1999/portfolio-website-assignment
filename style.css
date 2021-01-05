@@ -80,6 +80,7 @@ i {
       background-repeat: no-repeat;
       background-size:cover;
   }
+  
   .bg-inquiry h1{
       padding:40px;
       color: #fff;
@@ -89,4 +90,11 @@ i {
   .chat-button{
       float: right;
       margin: 80px 70px 0px 0px;
+  }
+  .contact{
+      margin: auto;
+      text-align: center;
+  }
+  .contact h3{
+      color: #696871;
   }
