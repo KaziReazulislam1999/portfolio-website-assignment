@@ -71,3 +71,22 @@ i {
       font-weight: 300;
       color: #6C6C6C;
   }
+  .bg-inquiry{
+      background-image: url(./shapes/Group_33094_1.png);
+      width: 900px;
+      height: 208px;
+      padding: 10px;
+      margin: auto;
+      background-repeat: no-repeat;
+      background-size:cover;
+  }
+  .bg-inquiry h1{
+      padding:40px;
+      color: #fff;
+      font-size: 40px;
+      display:inline-block
+  }
+  .chat-button{
+      float: right;
+      margin: 80px 70px 0px 0px;
+  }
