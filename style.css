@@ -102,3 +102,10 @@ i {
     width: 40px;
     padding: 5px;
 }
+.inquiry-area{
+    height: 350px !important;
+}
+.contact-area{
+    height: 350px !important;
+}
+}
