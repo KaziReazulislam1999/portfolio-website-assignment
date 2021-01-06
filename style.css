@@ -115,12 +115,15 @@ Working-experience Section End
 /*===========================
 Project-Area Section Start
 ==============================*/
+.project-area .project-cover {
+    margin-left: 80px;
+}
   .col-1{
       width: 300px;
-      margin: 20px ;
+      margin: 10px ;
       box-shadow: 5px 5px 40px gray;
       float: left;
-      padding:30px;
+      padding:10px;
       border-radius: 20px;
       
   }
